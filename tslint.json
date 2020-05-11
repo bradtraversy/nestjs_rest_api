@@ -4,9 +4,11 @@
   "jsRules": {
     "no-unused-expression": true
   },
+  "testing-git-pullrequest":{simply testing"
+  }
   "rules": {
     "quotemark": [true, "single"],
-    "member-access": [false],
+    "member-access": [],
     "ordered-imports": [false],
     "max-line-length": [true, 150],
     "member-ordering": [false],
